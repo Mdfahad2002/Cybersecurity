@@ -1,0 +1,2 @@
+Hi this the file trail1 please refer the website to file handling - https://docs.python.org/3/library/pathlib.html#pathlib.Path.read_text
+Path.open(mode='r,buffering=-1,encoding=none,error=none,newline=none)
