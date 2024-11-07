@@ -1,0 +1,4 @@
+
+# Create a file Employee.csv with the following records in it:
+# Emo No, EmpName, DateOfJoining Department
+# Create a dictionary studentData (branch, cgpa, name, year)
